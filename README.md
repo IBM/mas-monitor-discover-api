@@ -169,3 +169,4 @@ Your action: What you need to do
 Note: where applicable
 Back to Table of Contents
 ```
+Enjoy discovering the 12 calls (and don't hesitate to try out more) !
