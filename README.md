@@ -99,7 +99,7 @@ The Monitor API v2 is very rich and contains dozens and dozens of calls. The bes
 2. Click on each API set, and spend minimum 10 minutes looking at the descriptions of the calls.
 3. For `Manage core resources`, `Query data` specifically, notice how the API set contains multiple Definitons (top-right drop-down list). Click one after the other and notice how each contains many different APIs available for `DeviceType`, `DeviceType -> Device`, `DeviceType V2`, `Organization`, `Site`,`Site -> Asset`, `Site -> Location` etc.<br>
 
-![image](/images/cls-mas-monitor-api-image003.jpg)
+![image](/images/apis-overview.jpg)
 
 <a id='anatomy'></a>
 ## Anatomy of an API Call
