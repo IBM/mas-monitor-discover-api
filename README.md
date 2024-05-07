@@ -26,7 +26,7 @@ In this Tutorial, you will:
 2. **UNDERSTAND** the Monitor API v2 structure and the anatomy of an API v2 call & 𝗗𝗜𝗦𝗖𝗢𝗩𝗘𝗥 how to execute any call with Swagger & Postman.
 3. **PLAY** with 12 API v2 ready-to-use calls using a provided Jupyter Notebook, on your MAS Cloud Pak for Data instance.
 
-![image](/images/overview.jpg)
+![image](/images/utorial-overview.jpg)
 
 <a id='prereq'></a>
 # Prerequisites
