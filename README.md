@@ -73,7 +73,7 @@ There are 2 options/ways to get the `X-api-key`, `X-api-token` values:
 
 <a id='robot'></a>
 ## Create sample Robot Device Type, Devices & Alerts to test your API calls
-The purpose of this section is to create standard ootb Monitor `Robot` Device Type & Devices that you will use to test all the API calls. Creating a `Robot` Device Type will automatically create 5 Devices named `73000`, `73001`, `73002`, `73003` and `73004`, and data will keep flowing to them. All following sections will be based on a `XY-Robot` Device Type - where `XY` will be your initials (e.g. `CL-Robot` for Christophe Lucas).
+The purpose of this section is to create standard ootb Monitor `Robot` Device Type, Devices & Alerts that you will use to test all the API calls. Creating a `Robot` Device Type will automatically create 5 Devices named `73000`, `73001`, `73002`, `73003` and `73004`, and data will keep flowing to them. All following sections will be based on a `XY-Robot` Device Type - where `XY` will be your initials (e.g. `CL-Robot` for Christophe Lucas).
 
 **Create Sample Robot Device Type**
 1. On Monitor Home screen, click `Create a device type` then select `Sample robot type template`, name your Device Type `XY_Robot` (where`XY` are your initials), click `Create`.
