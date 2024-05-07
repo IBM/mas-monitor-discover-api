@@ -22,8 +22,8 @@
 <a id='overview'></a>
 # Introduction & Overview
 In this Tutorial, you will:
-1. **GET READY** to use Monitor API v2 by finding your MAS Monitor Environment info required to run API calls & by creating sample Monitor Robot Devices and Alerts to test the API calls.
-2. **UNDERSTAND** the Monitor API v2 structure and the anatomy of any API v2 call & **DISCOVER** how to use API v2 calls using Swagger & Postman.
+1. **GET READY** to use Monitor API v2 by finding your MAS Monitor Environment required info & by creating sample Monitor Robot Devices and Alerts to test the calls.
+2. **UNDERSTAND** the Monitor API v2 structure and the anatomy of an API v2 call & 𝗗𝗜𝗦𝗖𝗢𝗩𝗘𝗥 how to execute any call with Swagger & Postman.
 3. **PLAY** with 12 API v2 ready-to-use calls using a provided Jupyter Notebook, on your MAS Cloud Pak for Data instance.
 
 ![image](/images/overview.jpg)
