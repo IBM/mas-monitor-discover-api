@@ -160,7 +160,7 @@ In this section, you will download and re-use a sample Jupyter Notebook which co
 
 <a id='cp4dnotebook'></a>
 ### How to use the Notebook
-Just follow the just-imported `l-mas-monitor-discover-api-cp4d-template.ipynb` Notebook step by step. 
+Just execute the cells in the just-imported `cl-mas-monitor-discover-api-cp4d-template.ipynb` Notebook step by step. 
 1. In the `GET SET - Get & Set your MAS Monitor ENV Details` Notebook initial section, replace `X-api-key`, `X-api-token`, `tenantId`, `mam_user_email` as you found them in [Get Monitor {X-api-key, X-api-token, tenantId, mam_user_email} & Server URL](#credentials).
 2. Run all subsequent API calls in order, 1 by 1, by following the instructions which each include these details:<br>
 ```
