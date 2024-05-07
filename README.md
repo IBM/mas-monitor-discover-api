@@ -147,14 +147,15 @@ We will use a `Query data - DeviceType definition -- Device Type Alert Managemen
 
 <a id='cp4d'></a>
 ## Play with 12 API calls using MAS Cloud Pak for Data
-In this section, you will re-use the TODO which contains 12 sample API calls. Each has a varying level of 'complexity' - try them all in the order set in the Notebook.
+In this section, you will download and re-use a sample Jupyter Notebook which contains 12 sample API calls. Each has a varying level of 'complexity' - try them all in the order set in the Notebook.
 <a id='setupnotebook'></a>
 ### Setup Project, Import Notebook
 1. Donwload the <a href="https://github.com/IBM/mas-monitor-discover-api/blob/main/notebooks/cl-mas-monitor-discover-api-cp4d-template.ipynb" target="_blank">cl-mas-monitor-discover-api-cp4d-template.ipynb</a> Jupyter Notebook provided with this tutorial.
 2. From your MAS Cloud Pak for Data instance home page, click `All Projects` from the left menu. Click `New Project`.
-3. Click `Create an empty project`, name it `xy-mas-monitor-discover-api-cp4d` (where `xy` are your initials). Go to the `From File` tab. In the `Drag and drop files here or upload` box, upload the Notebook you just downloaded. Click `Create`.
-4. Once the project is created, click `New asset`, select `Jupyter notebook editor`. Select the default `Python 3.10` and `Runtime 22.2 on Python 3.10`. Name it `xy-mas-monitor-discover-api-cp4d`.
-5.  
+3. Click `Create an empty project`, name it `xy-mas-monitor-discover-api-cp4d` (where `xy` are your initials). Click `Create`.
+4. Once the project is created, click `New asset`, select `Jupyter notebook editor`. Select the default `Python 3.10` and `Runtime 22.2 on Python 3.10`.
+5. Go to the `From File` tab of the project. In the `Drag and drop files here or upload` box, upload the Notebook you just downloaded. Name it `xy-mas-monitor-discover-api-cp4d`. Click `Create`.
+
 ![image](/images/cloudpakfordata.jpg)
 
 <a id='cp4dnotebook'></a>
