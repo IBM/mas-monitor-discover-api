@@ -143,7 +143,7 @@ We will use a `Query data - DeviceType definition -- Device Type Alert Managemen
 }
 ```
 
-![image](/images/cls-mas-monitor-api-image005.jpg)
+![image](/images/monitor-postman.jpg)
 
 <a id='cp4d'></a>
 ## Play with 12 API calls using MAS Cloud Pak for Data
