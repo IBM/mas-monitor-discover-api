@@ -42,7 +42,7 @@ This tutorial was built using a **MAS 8.11.10** instance with **Monitor 8.11.6**
 
 <a id='credentials'></a>
 ## Get Monitor {X-api-key, X-api-token, tenantId, mam_user_email} & Server URL
-As per <a href="https://www.ibm.com/docs/en/maximo-monitor/continuous-delivery?topic=reference-apis" target="_blank">Monitor APIs</a> documentation, in order to run Monitor API v2, you will need:
+As per <a href="https://www.ibm.com/docs/en/maximo-monitor/continuous-delivery?topic=reference-apis" target="_blank">Monitor APIs</a> documentation, in order to run Monitor API v2 calls, you will need:
 - For **GET** calls: `X-api-key`, `X-api-token` values.<br> 
 - For **POST**, **PUT**, or **DELETE** calls: `X-api-key`, `X-api-token` + `tenantId` and `mam_user_email` values.<br>
 - Your MAS `Monitor Server URL`.<br>
