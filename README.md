@@ -54,12 +54,12 @@ There are 2 options/ways to get the `X-api-key`, `X-api-token` values:
 - **Option 1 - Using Monitor as_apikey & as_apitoken (via MAS - Openshift Container Platform)**
   - From the OCP console, click `Project`. In the `Search by name` field, start typing `mas-monitor` and locate e.g. the `mas-***-monitor` Project. Open the Project.
   - On the `Inventory` card, click `Secrets`. Search for and open `monitor-api`.
-  - Copy and save `as_apikey` and `as_token` values. These are your required `X-api-key` & `X-api-token`.
+  - Copy and save `as_apikey` and `as_token` - those are your required `X-api-key` & `X-api-token` values.
 
 - **Option 2 - Using Watson IoT Platform API Key & Authentication Token**
   - From the Monitor Home menu, click `Open the IoT tool` to access the Watson IoT Platform. Click `Apps` menu.
   - Click `Generate API Key`, Next and click expiration `Off`. Select `Standard Application` role . Click Generate Key. 
-  - Copy and save `API key` and `Authentication token`. These are your required `X-api-key` & `X-api-token`.
+  - Copy and save `API key` and `Authentication token` - those are your required `X-api-key` & `X-api-token` values.
 
 **Get tenantId, mam_user_email**<br>
 - To get your `tenantId`, look at your Monitor homepage URL, it should like this `https://tenantId.monitor.domain.com/`. Example 1: `https://mygeo.monitor.mygeomas.gtm-pat.com/` where `mygeomas.gtm-pat` is the `domain` and `mygeo` is the `tenantId`. Example 2: `https://main.monitor.customer-poc.suite.maximo.com/` where `customer-poc.suite.maximo` is the `domain` and `main` is the `tenantId`. Another simple way to get the value of your `tenantId` is to click the `Open the IoT tool` from Monitor home page, then copy (top-right) the value of your Watson IoT Platform ID.
