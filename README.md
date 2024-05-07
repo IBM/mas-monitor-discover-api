@@ -69,7 +69,7 @@ There are 2 options/ways to get the `X-api-key`, `X-api-token` values:
 - Access the Monitor v2 API by clicking Monitor top-right `Help - API` menu. This will open a screen where you will note 4 distinct API sets. 
 - Click any of these API sets, and notice top-left the `Server` box where the `Generated server url` will appear in plain sight. Copy it and use this as the `your-mas-monitor-server-url` in all below API v2 Postman (or CloudPakForData) calls.
 
-![image](/images/cls-mas-monitor-api-image001.jpg)
+![image](/images/get-api-values.jpg)
 
 <a id='robot'></a>
 ## Create sample Robot Device Type, Devices & Alerts to test your API calls
