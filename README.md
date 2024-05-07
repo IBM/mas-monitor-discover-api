@@ -117,7 +117,7 @@ The following image highlights the constitutive elements that must be considered
 
 <a id='monitorui'></a>
 ### Try Me - Using Monitor Swagger API Web UI
-First, let's use the Monitor API Swagger Web UI which is available directly from within the Monitor application. We will use a simple `Manage core resources DeviceType - Device Type Management` API call, which returns the list of all *DeviceType* in your Monitor environment:
+First, let's use the Monitor API Swagger Web UI which is available directly from within the Monitor application. We will use a simple `Manage core resources DeviceType - Device Type Management` API call, which returns the list of all *DeviceTypes* in your Monitor environment:
 1. Click Monitor top-right `Help - API` menu. Open the `Manage core resources` API, select the `DeviceType` definition (top right). On right-side of the screen, click `Authorize`.
 2. In the opened `Available authorizations` window, enter the value of `X-api-key`, click `Authorize`, then repeat the same, one after the other, for `X-api-token`, `tenantId` and `mam_user_email`that your retrieved in the [Get Monitor {X-api-key, X-api-token, tenant, mam_user_email} & Server URL](#credentials) section.
 3. Go to the `Device Type Management` section and open the `POST /api/v2/core/deviceTypes/search - Get Device types, filter by status, supports pagination` call. 
